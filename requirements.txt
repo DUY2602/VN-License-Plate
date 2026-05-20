@@ -1,0 +1,5 @@
+ultralytics
+roboflow
+python-dotenv
+easyocr
+opencv-python
