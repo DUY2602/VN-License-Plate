@@ -1,5 +1,8 @@
 ultralytics
 roboflow
 python-dotenv
-easyocr
 opencv-python
+pillow
+numpy
+paddleocr>=3.5.0
+paddlepaddle>=3.3.0
